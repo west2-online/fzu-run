@@ -66,3 +66,5 @@ theme:
 
 extra_javascript:
     - 'javascripts/analysis.js'
+
+repo_url: https://github.com/west2-online/fzu-run
