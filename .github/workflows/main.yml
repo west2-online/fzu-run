@@ -1,7 +1,8 @@
-name: fzurun-autoupdate
+name: Deploy to Github Pages
 on:
   push:
     branches:
+      - master
       - main
 jobs:
   deploy:
@@ -11,6 +12,9 @@ jobs:
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - run: pip install mkdocs
+      - uses: actions/cache@v2
+        with:
+          key: ${{ github.ref }}
+          path: .cache
       - run: pip install mkdocs-material
       - run: mkdocs gh-deploy --force
