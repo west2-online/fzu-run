@@ -14,7 +14,7 @@
 
 ## 如何分享自己的经验
 
-如果您对本站与本计划感兴趣，请访问GitHub站点：https://github.com/west2-online/fzu-run
+如果您对本站与本计划感兴趣，请访问GitHub站点：[](https://github.com/west2-online/fzu-run)
 
 - 对于没有Git使用背景的大部分同学，可以把自己的经验文稿发送给 [ozlienx@outlook.com](mailto:ozlienx@outlook.com) ，我们会帮助你发布
 - 对于有Git背景的同学来说，请对 `docs`下的对应文件夹Pull Request，我们会及时的Review、Merge。
