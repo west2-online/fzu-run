@@ -6,8 +6,8 @@ nav:
     - 首页: index.md
     - 关于: about.md
     - 转专业:
+        - change-major/README.md
         - 计算机:
-            # - cs/index.md
             - '[大一]21-土木->计算机类': change-major/cs/1.md
             - '[大一]21-环安->计算机类': change-major/cs/6.md
             - '[大二]20-机械->计算机类': change-major/cs/4.md
