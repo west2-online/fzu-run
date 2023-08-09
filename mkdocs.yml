@@ -11,15 +11,15 @@ nav:
             - '[大一]22-工业设计->大数据': change-major/cs/12.md
             - '[大一]22-土木->软件工程': change-major/cs/11.md
             - '[大二]22-高分子->软件工程': change-major/cs/10.md
+            - '[大二]22-地矿->信息安全': change-major/cs/9.md
             - '[大一]21-土木->计算机类': change-major/cs/1.md
             - '[大一]21-环安->计算机类': change-major/cs/6.md
-            - '[大二]20-机械->计算机类': change-major/cs/4.md
-            - '[大二]19-生工->计算机类': change-major/cs/3.md
+            - '[大二]21-机械->计算机类': change-major/cs/4.md
+            - '[大二]21-生工->计算机类': change-major/cs/3.md
             - '[大二]21-生工->软件工程': change-major/cs/2.md
             - '[大一]21-土木->软件工程': change-major/cs/5.md
             - '[大一]21-土木->软件工程': change-major/cs/7.md
             - '[大二]21-材料->软件工程': change-major/cs/8.md
-            - '[大二]21-地矿->信息安全': change-major/cs/9.md
         - 数学:
             - '[大一]21-土木->数学类': change-major/math/1.md
         - 电气:
@@ -40,7 +40,7 @@ nav:
             - '[大一]21-土木->经济学': change-major/economy/3.md
         - 化学:
             - '[大一]22-建筑->嘉锡化学拔尖班':  change-major/chemistry/1.md
-        - 资源:
+        - 备考资源:
             - 通用:
                 - 转专业学生名单公示: change-major/source/3.md
             - 法学:
@@ -74,7 +74,6 @@ theme:
         - navigation.indexes
         - navigation.tabs.sticky
         - navigation.tracking
-        - navigation.expand
         - toc.follow
 
 extra_javascript:
