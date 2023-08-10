@@ -1,7 +1,7 @@
 site_name: 'FZU-RUN'
 site_url: https://run.w2fzu.com/
-site_author: west2online
-site_description: '福州大学转专业经验站'
+site_author: west2-online
+site_description: '福州大学转专业经验手册'
 nav:
     - 首页: index.md
     - 关于: about.md
@@ -75,6 +75,10 @@ theme:
         - navigation.tabs.sticky
         - navigation.tracking
         - toc.follow
+        - content.action.edit
+        - navigation.footer
+        - navigation.path
+        - navigation.top
 
 extra_javascript:
     - 'javascripts/analysis.js'
