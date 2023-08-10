@@ -11,7 +11,7 @@ nav:
             - '[大一]22-工业设计->大数据': change-major/cs/12.md
             - '[大一]22-土木->软件工程': change-major/cs/11.md
             - '[大二]22-高分子->软件工程': change-major/cs/10.md
-            - '[大一]22-土木->计算机类': change-major/cs/230810.md
+            - '[大一]22-土木->计算机类': change-major/cs/230810-2.md
             - '[大一]22-高分子->计算机类': change-major/cs/230810-1.md
             - '[大二]22-地矿->信息安全': change-major/cs/9.md
             - '[大一]21-土木->计算机类': change-major/cs/1.md
@@ -34,6 +34,7 @@ nav:
             - '[大一]22-土木->电子信息类': change-major/physics/230810-1.md
             - '[大一]22-工业设计->电子信息类': change-major/physics/230810-2.md
             - '[大一]21-外国语->集成电路设计与集成系统': change-major/physics/1.md
+            - '[大一]21-化工->集成电路设计与集成系统': change-major/physics/230810-3.md
         - 法学:
             - '[大一]22-英语->法学': change-major/law/230810.md
         - 外国语:
