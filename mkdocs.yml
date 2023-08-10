@@ -31,7 +31,8 @@ nav:
             - '[大一]21-化学->电气工程及其自动化': change-major/electric/3.md
         - 物信:
             - '[大二]22-土木->电子科学与技术': change-major/physics/230809.md
-            - '[大一]22-土木->电子信息类': change-major/physics/230810.md
+            - '[大一]22-土木->电子信息类': change-major/physics/230810-1.md
+            - '[大一]22-工业设计->电子信息类': change-major/physics/230810-2.md
             - '[大一]21-外国语->集成电路设计与集成系统': change-major/physics/1.md
         - 法学:
             - '[大一]22-英语->法学': change-major/law/230810.md
