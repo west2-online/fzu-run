@@ -8,6 +8,7 @@ nav:
     - 转专业:
         - change-major/README.md
         - 计算机:
+            - '[大一]23-机器人工程->计算机类': change-major/cs/231202-1.md
             - '[大一]22-光电信息->计算机类': change-major/cs/230828-1.md
             - '[大一]22-工业设计->大数据': change-major/cs/12.md
             - '[大一]22-土木->软件工程': change-major/cs/11.md
@@ -23,7 +24,6 @@ nav:
             - '[大一]21-土木->软件工程': change-major/cs/5.md
             - '[大一]21-土木->软件工程': change-major/cs/7.md
             - '[大二]21-材料->软件工程': change-major/cs/8.md
-            - '[大一]23-机器人工程->计算机类': change-major/cs/13.md
         - 数学:
             - '[大一]21-土木->数学类': change-major/math/1.md
         - 电气:
