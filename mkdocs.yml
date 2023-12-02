@@ -52,6 +52,7 @@ nav:
             - 法学:
                 - 2022法学转专业笔试题目: change-major/source/5.md
                 - 2022法学转专业面试名单: change-major/source/12.md
+                - 2023法学转专业笔试题目: change-major/source/2023-law-write-exam.md
             - 物信:
                 - 2022物信转专业笔试题目: change-major/source/6.md
                 - 2022物信转专业面试题目: change-major/source/7.md
@@ -63,12 +64,14 @@ nav:
                 - 2023计算机机试题目: change-major/source/13.md
                 - 2022计算机笔试题目: change-major/source/9.md
                 - 2022计算机机试题目: change-major/source/8.md
+                - 2021计算机笔试题目: change-major/source/2021-cs-write-exam.md
                 - 计算机简答题整理: change-major/source/1.md
                 - 20级计算机学院面试名单: change-major/source/2.md
                 - 21级计算机学院面试名单: change-major/source/4.md
     - 研究生:
         - 福州大学:
             - '2023计算机': postgraduate/fzu/1.md
+            - "2023-复旦大学工研院": postgraduate/fzu/2.md
 theme:
     logo: 'assets/logo.svg'
     name: material
