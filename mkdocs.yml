@@ -76,6 +76,7 @@ nav:
         - 福州大学:
             - '2023计算机': postgraduate/fzu/1.md
             - "2023-复旦大学工研院": postgraduate/fdu/1.md
+            - '2024-厦门大学信院推免': postgraduate/xmu/1.md
 theme:
     logo: 'assets/logo.svg'
     name: material
