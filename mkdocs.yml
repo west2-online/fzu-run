@@ -8,7 +8,7 @@ nav:
     - 转专业:
         - change-major/README.md
         - 计算机:
-              '[大一]23-建筑学->信息安全': change-major/cs/231204-1.md
+            - '[大一]23-建筑学->信息安全': change-major/cs/231204-1.md
             - '[大一]23-车辆工程->计算机类': change-major/cs/231203-3.md
             - '[大一]23-土木->软件工程': change-major/cs/231203-2.md
             - '[大一]23-汉语言文学->软件工程': change-major/cs/231203-1.md
