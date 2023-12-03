@@ -8,6 +8,7 @@ nav:
     - 转专业:
         - change-major/README.md
         - 计算机:
+            - '[大一]23-汉语言文学->软件工程': change-major/cs/231203-1.md
             - '[大一]23-机器人工程->计算机类': change-major/cs/231202-1.md
             - '[大一]22-光电信息->计算机类': change-major/cs/230828-1.md
             - '[大一]22-工业设计->大数据': change-major/cs/12.md
