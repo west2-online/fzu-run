@@ -45,6 +45,7 @@ nav:
         - 外国语:
             - '[大一]21-计算机->英语': change-major/foreign/1.md
         - 经管:
+            - '[大一]23-经济学->会计学': change-major/economy/231203-1.md
             - '[大一]22-外国语->数理金融实验班': change-major/economy/1.md
             - '[大一]21-机械->数理金融实验班':  change-major/economy/2.md
             - '[大一]21-土木->经济学': change-major/economy/3.md
@@ -65,7 +66,7 @@ nav:
             - 数学:
                 - 2022数学转专业笔试题目: change-major/source/2022-math-write-exam.md
             - 经管:
-                - 2022经管学院转专业英语考试B卷题目: change-major/source/2022-economy-English-B-write-exam.md
+                - 2022经管学院转专业英语考试B卷题目: change-major/source/2022-economy-english-B-write-exam.md
                 - 2022经管学院转专业高等数学考试B卷题目: change-major/source/2022-economy-math-B-write-exam.md
             - 计算机:
                 - 2023计算机机试题目: change-major/source/2023-cs-on-computer-exam.md
