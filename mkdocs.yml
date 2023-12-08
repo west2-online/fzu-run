@@ -84,11 +84,11 @@ nav:
         - 福州大学:
             - '[考研] 2023-福州大学计算机与大数据学院': postgraduate/fzu/1.md
         - 复旦大学:
-            - "[考研] 2023-复旦大学工程与应用技术研究院": postgraduate/fdu/1.md
+            - "[考研] 2023-复旦大学工程与应用技术研究院": postgraduate/fdu/231202-1.md
         - 厦门大学:
-            - '[保研] 2024-厦门大学信息学院': postgraduate/xmu/1.md
+            - '[保研] 2024-厦门大学信息学院': postgraduate/xmu/231204-1.md
         - 清华大学:
-            - '[保研] 2024-清华大学网络空间与网络科学研究院': postgraduate/thu/1.md
+            - '[保研] 2024-清华大学网络空间与网络科学研究院': postgraduate/thu/231208-1.md
 theme:
     logo: 'assets/logo.svg'
     name: material
