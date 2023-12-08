@@ -88,7 +88,7 @@ nav:
         - 厦门大学:
             - '[保研] 2024-厦门大学信息学院': postgraduate/xmu/1.md
         - 清华大学:
-            - '[保研]-2024-清华大学网络空间与网络科学研究院': postgraduate/thu/1.md
+            - '[保研] 2024-清华大学网络空间与网络科学研究院': postgraduate/thu/1.md
 theme:
     logo: 'assets/logo.svg'
     name: material
