@@ -98,6 +98,7 @@ theme:
     palette:
         primary: white
         accent: blue
+    custom_dir: overrides
     features:
         - navigation.tabs
         - navigation.indexes
@@ -115,3 +116,10 @@ extra_javascript:
 repo_url: https://github.com/west2-online/fzu-run
 repo_name: west2-online/fzu-run
 edit_uri: 'edit/main/docs/'
+# https://squidfunk.github.io/mkdocs-material/reference/formatting/
+markdown_extensions:
+    - pymdownx.critic
+    - pymdownx.caret
+    - pymdownx.keys
+    - pymdownx.mark
+    - pymdownx.tilde
