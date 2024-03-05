@@ -15,49 +15,49 @@ nav:
             - '[大一]23-汉语言文学->软件工程': change-major/cs/231203-1.md
             - '[大一]23-机器人工程->计算机类': change-major/cs/231202-1.md
             - '[大一]22-光电信息->计算机类': change-major/cs/230828-1.md
-            - '[大一]22-工业设计->大数据': change-major/cs/12.md
-            - '[大一]22-土木->软件工程': change-major/cs/11.md
-            - '[大二]22-高分子->软件工程': change-major/cs/10.md
+            - '[大一]22-工业设计->大数据': change-major/cs/230808-1.md
+            - '[大一]22-土木->软件工程': change-major/cs/230807-1.md
+            - '[大二]22-高分子->软件工程': change-major/cs/230805-1.md
             - '[大一]22-土木->计算机类': change-major/cs/230810-2.md
             - '[大一]22-高分子->计算机类': change-major/cs/230810-1.md
-            - '[大二]22-地矿->信息安全': change-major/cs/9.md
-            - '[大一]21-土木->计算机类': change-major/cs/1.md
-            - '[大一]21-环安->计算机类': change-major/cs/6.md
-            - '[大二]21-机械->计算机类': change-major/cs/4.md
-            - '[大二]21-生工->计算机类': change-major/cs/3.md
-            - '[大二]21-生工->软件工程': change-major/cs/2.md
-            - '[大一]21-土木->软件工程': change-major/cs/5.md
-            - '[大一]21-土木->软件工程': change-major/cs/7.md
-            - '[大二]21-材料->软件工程': change-major/cs/8.md
+            - '[大二]22-地矿->信息安全': change-major/cs/230319-1.md
+            - '[大一]21-土木->计算机类': change-major/cs/230316-1.md
+            - '[大一]21-环安->计算机类': change-major/cs/230316-6.md
+            - '[大二]21-机械->计算机类': change-major/cs/230316-4.md
+            - '[大二]21-生工->计算机类': change-major/cs/230316-3.md
+            - '[大二]21-生工->软件工程': change-major/cs/230316-2.md
+            - '[大一]21-土木->软件工程': change-major/cs/230316-5.md
+            - '[大一]21-土木->软件工程': change-major/cs/230316-7.md
+            - '[大二]21-材料->软件工程': change-major/cs/230316-8.md
         - 数学:
             - '[大一]23-土木->数学类': change-major/math/231208-1.md
-            - '[大一]21-土木->数学类': change-major/math/1.md
+            - '[大一]21-土木->数学类': change-major/math/230316-1.md
         - 电气:
             - '[大一]23-生工->智能电网信息工程': change-major/electric/231218-1.md
-            - '[大二]22-机械->电气工程及其自动化': change-major/electric/230809.md
-            - '[大二]21-土木->电气工程及其自动化': change-major/electric/1.md
-            - '[大一]21-环安->电气工程及其自动化': change-major/electric/2.md
-            - '[大一]21-化学->电气工程及其自动化': change-major/electric/3.md
+            - '[大二]22-机械->电气工程及其自动化': change-major/electric/230809-1.md
+            - '[大二]21-土木->电气工程及其自动化': change-major/electric/230316-1.md
+            - '[大一]21-环安->电气工程及其自动化': change-major/electric/230316-2.md
+            - '[大一]21-化学->电气工程及其自动化': change-major/electric/230316-3.md
         - 物信:
-            - '[大二]22-土木->电子科学与技术': change-major/physics/230809.md
+            - '[大二]22-土木->电子科学与技术': change-major/physics/230809-1.md
             - '[大一]22-土木->电子信息类': change-major/physics/230810-1.md
             - '[大一]22-工业设计->电子信息类': change-major/physics/230810-2.md
-            - '[大一]21-外国语->集成电路设计与集成系统': change-major/physics/1.md
+            - '[大一]21-外国语->集成电路设计与集成系统': change-major/physics/230316-1.md
             - '[大一]21-化工->集成电路设计与集成系统': change-major/physics/230810-3.md
-            - '[大二]23-物流工程->微电子科学与工程': change-major/physics/240211.md
+            - '[大二]23-物流工程->微电子科学与工程': change-major/physics/240211-1.md
             - '[大二]22-物流工程->电信息科学与工程': change-major/physics/240213-1.md
         - 法学:
-            - '[大一]22-英语->法学': change-major/law/230810.md
+            - '[大一]22-英语->法学': change-major/law/230810-1.md
         - 外国语:
-            - '[大一]21-计算机->英语': change-major/foreign/1.md
+            - '[大一]21-计算机->英语': change-major/foreign/230316-1.md
         - 经管:
             - '[大一]23-经济学->会计学': change-major/economy/231203-1.md
             - '[大一]23-工业设计->会计学': change-major/economy/231205-1.md
-            - '[大一]22-外国语->数理金融实验班': change-major/economy/1.md
-            - '[大一]21-机械->数理金融实验班':  change-major/economy/2.md
-            - '[大一]21-土木->经济学': change-major/economy/3.md
+            - '[大一]22-外国语->数理金融实验班': change-major/economy/230316-1.md
+            - '[大一]21-机械->数理金融实验班':  change-major/economy/230316-2.md
+            - '[大一]21-土木->经济学': change-major/economy/230316-3.md
         - 化学:
-            - '[大一]22-建筑->嘉锡化学拔尖班':  change-major/chemistry/1.md
+            - '[大一]22-建筑->嘉锡化学拔尖班':  change-major/chemistry/230316-1.md
         - 汉语言文学:
             - '[大一]23-物流管理->汉语言文学': change-major/chinese-literature/240102-1.md
         - 备考资源:
@@ -87,7 +87,7 @@ nav:
                 - 21级计算机学院面试名单: change-major/source/2021-cs-interview-list.md
     - 研究生:
         - 福州大学:
-            - '[考研] 2023-福州大学计算机与大数据学院': postgraduate/fzu/1.md
+            - '[考研] 2023-福州大学计算机与大数据学院': postgraduate/fzu/230320-1.md
             - '[考研] 2023-福州大学计算机与大数据学院': postgraduate/fzu/231214-1.md
         - 复旦大学:
             - "[考研] 2023-复旦大学工程与应用技术研究院": postgraduate/fdu/231202-1.md
