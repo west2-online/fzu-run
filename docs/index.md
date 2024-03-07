@@ -1,6 +1,6 @@
-> 手机端用户使用提示:选择菜单在界面左上角哦
+> 手机端用户使用提示:选择菜单在界面左上角，建议使用电脑访问
 
-# 福州大学转专业/升学经验手册
+# 福州大学飞跃手册
 
 ## 为什么要有run.w2fzu.com
 
@@ -10,12 +10,18 @@
 
 我们深知信息差带来的困扰，因此，我们致力于提供一个文档站点，通过成功上岸的学长学姐的经验以及历年的资料，弥补信息差，为每一位福大学子提供尽可能明晰的方向指导。
 
+## 近期动态
+
+- 20231212 - 网站突破 10 万访问量和 2 万独立 IP（由 [51.la](https://51.la/) 提供统计服务）
+- 20230316 - 网站迁移至 Github Pages，同时支持 Workflow 自动更新，提供 CDN 加速
+- 20221123 - 网站上线，为 2022 年转专业提供了有力信息支撑
+
 ## 如何分享自己的经验
 
 如果您对本站与本计划感兴趣，请访问GitHub站点：[https://github.com/west2-online/fzu-run](https://github.com/west2-online/fzu-run)
 
-- 对于没有Git使用背景的大部分同学，可以把自己的经验文稿发送给 [admin@west2.online](mailto:admin@west2.online) ，我们会帮助你发布
-- 对于有Git背景的同学来说，请对 `docs`下的对应文件夹Pull Request，我们会及时的Review、Merge。
+- 对于没有 Git 使用背景的大部分同学，可以把自己的经验文稿发送给：admin@west2.online ，我们会帮助你发布
+- 对于有 Git 背景的同学来说，请参阅 [贡献指南](https://run.w2fzu.com/contribute-guide/) ，我们会及时的 Review、Merge。
 
 ## 展望
 
@@ -35,7 +41,8 @@
 
 **除分享本站链接外禁止一切其他传播文章的行为**
 
-## 贡献者
+## 贡献者名单
+感谢各位的辛勤付出
 <a href="https://github.com/west2-online/fzu-run/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=west2-online/fzu-run" />
 </a>
