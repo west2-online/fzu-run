@@ -19,7 +19,7 @@
 ## 如何分享自己的经验
 
 - 对于没有 Git 使用背景的大部分同学，可以把自己的经验文稿发送给：admin@west2.online ，我们会帮助你发布
-- 对于有 Git 背景的同学来说，请对 `docs`下的对应文件夹 Pull Request，我们会及时的 Review、Merge。
+- 对于有 Git 背景的同学来说，请参阅 [贡献指南](https://run.w2fzu.com/contribute-guide/) ，我们会及时的 Review、Merge。
 
 ## 支持
 

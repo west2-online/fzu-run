@@ -3,7 +3,9 @@ site_url: https://run.w2fzu.com/
 site_author: west2-online
 site_description: '福州大学转专业经验手册'
 nav:
-    - 首页: index.md
+    - 首页:
+        - index.md
+        - 贡献指南: contribute-guide.md
     - 关于: about.md
     - 转专业:
         - change-major/README.md
