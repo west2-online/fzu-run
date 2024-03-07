@@ -33,6 +33,7 @@ nav:
             - '[大一]23-土木->数学类': change-major/math/231208-1.md
             - '[大一]21-土木->数学类': change-major/math/1.md
         - 电气:
+            - '[大一]23-生工->智能电网信息工程': change-major/electric/231218-1.md
             - '[大二]22-机械->电气工程及其自动化': change-major/electric/230809.md
             - '[大二]21-土木->电气工程及其自动化': change-major/electric/1.md
             - '[大一]21-环安->电气工程及其自动化': change-major/electric/2.md
@@ -83,14 +84,18 @@ nav:
     - 研究生:
         - 福州大学:
             - '[考研] 2023-福州大学计算机与大数据学院': postgraduate/fzu/1.md
+            - '[考研] 2023-福州大学计算机与大数据学院': postgraduate/fzu/231214-1.md
         - 复旦大学:
             - "[考研] 2023-复旦大学工程与应用技术研究院": postgraduate/fdu/231202-1.md
         - 厦门大学:
             - '[保研] 2024-厦门大学信息学院': postgraduate/xmu/231204-1.md
+            - '[保研] 2024-厦门大学信息学院': postgraduate/xmu/231218-1.md
         - 清华大学:
             - '[保研] 2024-清华大学网络空间与网络科学研究院': postgraduate/thu/231208-1.md
         - 北京航空航天大学:
             - '[保研] 2023-北京航空航天大学计算机学院': postgraduate/buaa/231213-1.md
+        - 湖南大学:
+            - '[保研] 2024-湖南大学艺术': postgraduate/hnu/231214-1.md
 theme:
     logo: 'assets/logo.svg'
     name: material
