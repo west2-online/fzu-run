@@ -92,20 +92,22 @@ nav:
                 - 21级计算机学院面试名单: change-major/source/2021-cs-interview-list.md
     - 研究生:
         - 福州大学:
-            - '[考研] 2023-福州大学计算机与大数据学院': postgraduate/fzu/230320-1.md
-            - '[考研] 2023-福州大学计算机与大数据学院': postgraduate/fzu/231214-1.md
+            - '[考研] 2023-计算机与大数据学院': postgraduate/fzu/230320-1.md
+            - '[考研] 2023-计算机与大数据学院': postgraduate/fzu/231214-1.md
         - 复旦大学:
-            - "[考研] 2023-复旦大学工程与应用技术研究院": postgraduate/fdu/231202-1.md
+            - "[考研] 2023-工程与应用技术研究院": postgraduate/fdu/231202-1.md
         - 厦门大学:
-            - '[考研] 2023-厦门大学信息学院': postgraduate/xmu/231230-1.md
-            - '[保研] 2024-厦门大学信息学院': postgraduate/xmu/231218-1.md
-            - '[保研] 2024-厦门大学信息学院': postgraduate/xmu/231204-1.md
+            - '[考研] 2023-信息学院': postgraduate/xmu/231230-1.md
+            - '[保研] 2024-信息学院': postgraduate/xmu/231218-1.md
+            - '[保研] 2024-信息学院': postgraduate/xmu/231204-1.md
         - 清华大学:
-            - '[保研] 2024-清华大学网络空间与网络科学研究院': postgraduate/thu/231208-1.md
+            - '[保研] 2024-网络空间与网络科学研究院': postgraduate/thu/231208-1.md
         - 北京航空航天大学:
-            - '[保研] 2023-北京航空航天大学计算机学院': postgraduate/buaa/231213-1.md
+            - '[保研] 2023-计算机学院': postgraduate/buaa/231213-1.md
         - 湖南大学:
-            - '[保研] 2024-湖南大学艺术': postgraduate/hnu/231214-1.md
+            - '[保研] 2024-艺术设计学院': postgraduate/hnu/231214-1.md
+        - 同济大学:
+            - '[保研] 2024-人工智能与自动化工程 （中德平台）': postgraduate/tongji/240312-1.md
 theme:
     logo: 'assets/logo.svg'
     name: material
