@@ -1,8 +1,8 @@
 # 网站支持
 
-运营支持：福州大学西二在线工作室 - [https://www.w2fzu.com/](https://www.w2fzu.com)
+运营支持：福州大学西二在线工作室 - [site.west2.online](https://site.west2.online/)
 
-技术支持：又拍云 - [https://www.upyun.com/](https://www.upyun.com/)
+技术支持：又拍云 - [www.upyun.com](https://www.upyun.com/)
 
 
 欢迎大家加入QQ群交流转专业心得
