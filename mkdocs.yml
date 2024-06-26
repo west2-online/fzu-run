@@ -130,6 +130,8 @@ theme:
 
 extra_javascript:
     - 'javascripts/analysis.js'
+    - 'javascripts/mathjax.js'
+    - 'https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js'
 
 repo_url: https://github.com/west2-online/fzu-run
 repo_name: west2-online/fzu-run
@@ -141,3 +143,5 @@ markdown_extensions:
     - pymdownx.keys
     - pymdownx.mark
     - pymdownx.tilde
+    - pymdownx.arithmatex:
+            generic: true
