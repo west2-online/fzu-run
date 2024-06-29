@@ -3,11 +3,17 @@ on:
   push:
     branches:
       - main
+
+env:
+  TZ: Asia/Shanghai # 指定容器当前时区
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0 # 默认为1,表示只拉去最新commit信息，会导致当前文件显示的创建时间、更新时间都为commit的时间
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
