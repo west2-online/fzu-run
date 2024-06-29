@@ -10,5 +10,3 @@
 关于公布2023学年各学院转专业实施细则的通知: [https://jwch.fzu.edu.cn/info/1036/13102.htm](https://jwch.fzu.edu.cn/info/1036/13102.htm)
 
 该文件是最近一年的转专业细则，详细说明了每个专业的招生人数和考核内容。
-
-*Last updated in June 2024*
