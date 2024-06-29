@@ -59,7 +59,16 @@
     
     
     
-  </head>
+   <link href="../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../../assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -122,43 +131,6 @@
     
     
     
-    
-      <label class="md-header__button md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
-      </label>
-      <div class="md-search" data-md-component="search" role="dialog">
-  <label class="md-search__overlay" for="__search"></label>
-  <div class="md-search__inner" role="search">
-    <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="搜索" placeholder="搜索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
-      <label class="md-search__icon md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
-      </label>
-      <nav class="md-search__options" aria-label="查找">
-        
-        <button type="reset" class="md-search__icon md-icon" title="清空当前内容" aria-label="清空当前内容" tabindex="-1">
-          
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
-        </button>
-      </nav>
-      
-    </form>
-    <div class="md-search__output">
-      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
-        <div class="md-search-result" data-md-component="search-result">
-          <div class="md-search-result__meta">
-            正在初始化搜索引擎
-          </div>
-          <ol class="md-search-result__list" role="presentation"></ol>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
     
     
       <div class="md-header__source">
@@ -3913,7 +3885,7 @@
 </li>
 <li>
 <p>但是有一说一，课上只能学会基础语法，真正想要做题的话还需要多加练习，这里建议的是使用PTA上的C语言练习配套学习</p>
-<p><img alt="img" src="https://img.w2fzu.com/fzu-run/change-major/cs/230316-4/1.png" /></p>
+<p><a class="glightbox" href="https://img.w2fzu.com/fzu-run/change-major/cs/230316-4/1.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="img" src="https://img.w2fzu.com/fzu-run/change-major/cs/230316-4/1.png" /></a></p>
 </li>
 <li>
 <p>数据结构我选择的是浙大的MOOC</p>
@@ -3932,7 +3904,7 @@
 <p>PS:此时离考试只剩1个月</p>
 </li>
 <li>
-<p>在学长的指导下，我开始做PAT乙级的题目。但因为临近期末，各种科目期末赶进度，加上各种学时巨少的科目考试<sub>~（点名计算数学，课时少、内容多、省略也多，最后什么都没学到）</sub>~，我焦头烂额。最后终于赶上，在考前的前几天算是做完了95题（部分题目实在没搞明白）<img alt="img" src="https://img-blog.csdnimg.cn/5ca79df0463b4422846cef265be0f02f.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA6aOO5YWu5r2H5r2H,size_20,color_FFFFFF,t_70,g_se,x_16" /></p>
+<p>在学长的指导下，我开始做PAT乙级的题目。但因为临近期末，各种科目期末赶进度，加上各种学时巨少的科目考试<sub>~（点名计算数学，课时少、内容多、省略也多，最后什么都没学到）</sub>~，我焦头烂额。最后终于赶上，在考前的前几天算是做完了95题（部分题目实在没搞明白）<a class="glightbox" href="https://img-blog.csdnimg.cn/5ca79df0463b4422846cef265be0f02f.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA6aOO5YWu5r2H5r2H,size_20,color_FFFFFF,t_70,g_se,x_16" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="img" src="https://img-blog.csdnimg.cn/5ca79df0463b4422846cef265be0f02f.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA6aOO5YWu5r2H5r2H,size_20,color_FFFFFF,t_70,g_se,x_16" /></a></p>
 </li>
 <li>
 <p>考前几天去PTA教育超市买了几套PTA乙级模拟卷</p>
@@ -3975,7 +3947,7 @@
 <ol>
 <li>时间: 不一定一样, 具体见教务处通知</li>
 </ol>
-<p><img alt="img" src="https://img.w2fzu.com/fzu-run/change-major/cs/230316-4/2.png" /></p>
+<p><a class="glightbox" href="https://img.w2fzu.com/fzu-run/change-major/cs/230316-4/2.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="img" src="https://img.w2fzu.com/fzu-run/change-major/cs/230316-4/2.png" /></a></p>
 <ol>
 <li>平台：</li>
 <li>PTA的OMS监考系统，没有代码补全，因此常用头文件、函数名需记牢</li>
@@ -4030,7 +4002,7 @@
 <ol>
 <li><strong>时间:</strong></li>
 </ol>
-<p><img alt="img" src="https://img.w2fzu.com/fzu-run/change-major/cs/230316-4/3.png" /></p>
+<p><a class="glightbox" href="https://img.w2fzu.com/fzu-run/change-major/cs/230316-4/3.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="img" src="https://img.w2fzu.com/fzu-run/change-major/cs/230316-4/3.png" /></a></p>
 <ul>
 <li>
 <p>记得提前准备好文件,成绩单(大二才有)在教务处(山北行政楼)里的自动打印机打印</p>
@@ -4083,6 +4055,27 @@
 
 
 
+  
+    
+  
+  
+
+
+  <aside class="md-source-file">
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="最后更新">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">March 7, 2024</span>
+  </span>
+
+    
+    
+    
+    
+  </aside>
 
 
 
@@ -4183,5 +4176,7 @@
         <script src="https://unpkg.zhimg.com/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
-  </body>
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
 </html>

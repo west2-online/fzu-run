@@ -59,7 +59,16 @@
     
     
     
-  </head>
+   <link href="../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../../assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -122,43 +131,6 @@
     
     
     
-    
-      <label class="md-header__button md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
-      </label>
-      <div class="md-search" data-md-component="search" role="dialog">
-  <label class="md-search__overlay" for="__search"></label>
-  <div class="md-search__inner" role="search">
-    <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="搜索" placeholder="搜索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
-      <label class="md-search__icon md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
-      </label>
-      <nav class="md-search__options" aria-label="查找">
-        
-        <button type="reset" class="md-search__icon md-icon" title="清空当前内容" aria-label="清空当前内容" tabindex="-1">
-          
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
-        </button>
-      </nav>
-      
-    </form>
-    <div class="md-search__output">
-      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
-        <div class="md-search-result" data-md-component="search-result">
-          <div class="md-search-result__meta">
-            正在初始化搜索引擎
-          </div>
-          <ol class="md-search-result__list" role="presentation"></ol>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
     
     
       <div class="md-header__source">
@@ -3972,16 +3944,16 @@ QQ号：1813469946（如若觉得还不够详细，加Q，问到下文有写的�
 <p>同济高数7课本（8在23年暑假就出了，但我买了7）</p>
 <p>宋浩（b站高等数学，一亿播放量的）</p>
 <p>吉米多维奇精选精讲第二版</p>
-<p><img alt="" src="https://img.w2fzu.com/fzu-run/202312032008140.png" /></p>
+<p><a class="glightbox" href="https://img.w2fzu.com/fzu-run/202312032008140.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="" src="https://img.w2fzu.com/fzu-run/202312032008140.png" /></a></p>
 <p>同济同步测试卷（一样的，第八版出了）</p>
-<p><img alt="" src="https://img.w2fzu.com/fzu-run/202312032005950.png" /></p>
+<p><a class="glightbox" href="https://img.w2fzu.com/fzu-run/202312032005950.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="" src="https://img.w2fzu.com/fzu-run/202312032005950.png" /></a></p>
 <p>福大自己的教辅（没啥用，或许吧）</p>
 <p>05年至13年的期中考试卷</p>
 <p>21年和22年的期中考试卷</p>
 <p>计算机导论（计算机类专业的导论书，当科普看的）</p>
-<p><img alt="" src="https://img.w2fzu.com/fzu-run/202312032008943.png" /></p>
+<p><a class="glightbox" href="https://img.w2fzu.com/fzu-run/202312032008943.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="" src="https://img.w2fzu.com/fzu-run/202312032008943.png" /></a></p>
 <p>计算机导论的解析（我背的这本）</p>
-<p><img alt="" src="https://img.w2fzu.com/fzu-run/202312032007634.png" /></p>
+<p><a class="glightbox" href="https://img.w2fzu.com/fzu-run/202312032007634.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="" src="https://img.w2fzu.com/fzu-run/202312032007634.png" /></a></p>
 <p>学长学姐准备的资料（有点过时，我也有背）</p>
 <p>计算机专业英语（机械工业出版社，买来吃灰，翻都没翻开过，不放图，别买，浪费钱）</p>
 <p>学姐（难得的转计成功的学姐，排名还挺靠前，能帮助你消除恐惧心理）
@@ -4124,7 +4096,7 @@ QQ号：1813469946（如若觉得还不够详细，加Q，问到下文有写的�
 <p>面试的时候我是和其他三个人，都是寄院面试的打车出去，四点打车出发，四点半到旗山校区北门，并且到计数楼3楼踩点，坐校内的旅游车来到生活区，吃饭（吃的麦麦），五点四十五坐上回程车，六点到达计数楼并等待。</p>
 <p>时间有点赶。</p>
 <p>我面试的具体内容已经在前面写的很清楚了，在这里就不再重复一遍。当所有老师开始笑起来的时候，我的当时脑袋里的想法是：
-<img alt="" src="https://img.w2fzu.com/fzu-run/202312032009680.png" />
+<a class="glightbox" href="https://img.w2fzu.com/fzu-run/202312032009680.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="" src="https://img.w2fzu.com/fzu-run/202312032009680.png" /></a>
 不说什么，也没什么好说的。（当时确实有点火气，这是真的）
 因为我确实没有实力。</p>
 <p>没有实力是原罪。</p>
@@ -4134,7 +4106,7 @@ QQ号：1813469946（如若觉得还不够详细，加Q，问到下文有写的�
 </ul>
 <p>精神恍惚，早上的制图课和高数课我听不进去。精神力消耗实在太大了，根本集中不了注意力。本来我下午还制定了学英语，学高数等等的诸多计划。</p>
 <p>然后看到了这张图，也放在下面：
-<img alt="" src="https://img.w2fzu.com/fzu-run/202312032009546.png" /></p>
+<a class="glightbox" href="https://img.w2fzu.com/fzu-run/202312032009546.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="" src="https://img.w2fzu.com/fzu-run/202312032009546.png" /></a></p>
 <p>正确的</p>
 <p>我的精神压力太大了，真的把大学当高中来学会死人的。</p>
 <p>所以直接开摆，下午睡到了五点多，晚上和另一个开学就跑路去数理综合班的朋友，出去穷游，一晚上花了1块钱（坐公交回来）。</p>
@@ -4186,6 +4158,27 @@ QQ号：1813469946（如若觉得还不够详细，加Q，问到下文有写的�
 
 
 
+  
+    
+  
+  
+
+
+  <aside class="md-source-file">
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="最后更新">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">December 4, 2023</span>
+  </span>
+
+    
+    
+    
+    
+  </aside>
 
 
 
@@ -4286,5 +4279,7 @@ QQ号：1813469946（如若觉得还不够详细，加Q，问到下文有写的�
         <script src="https://unpkg.zhimg.com/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
-  </body>
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
 </html>

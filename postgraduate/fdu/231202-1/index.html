@@ -59,7 +59,16 @@
     
     
     
-  </head>
+   <link href="../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../../assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -122,43 +131,6 @@
     
     
     
-    
-      <label class="md-header__button md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
-      </label>
-      <div class="md-search" data-md-component="search" role="dialog">
-  <label class="md-search__overlay" for="__search"></label>
-  <div class="md-search__inner" role="search">
-    <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="搜索" placeholder="搜索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
-      <label class="md-search__icon md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
-      </label>
-      <nav class="md-search__options" aria-label="查找">
-        
-        <button type="reset" class="md-search__icon md-icon" title="清空当前内容" aria-label="清空当前内容" tabindex="-1">
-          
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
-        </button>
-      </nav>
-      
-    </form>
-    <div class="md-search__output">
-      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
-        <div class="md-search-result" data-md-component="search-result">
-          <div class="md-search-result__meta">
-            正在初始化搜索引擎
-          </div>
-          <ol class="md-search-result__list" role="presentation"></ol>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
     
     
       <div class="md-header__source">
@@ -3829,13 +3801,13 @@
 <li>喜欢ff14 / 东方project / 福州大学本科 的学弟学妹可以偷偷加我，我可以尽量传授经验，希望为实验室加点二次元成分。</li>
 <li>经验贴有各自适合的对象，请根据自己的本科情况、经历选择合适的经验贴，并学会动态调整自己的计划。</li>
 </ul>
-<p><img alt="成绩单" src="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/0.webp" /></p>
+<p><a class="glightbox" href="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/0.webp" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="成绩单" src="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/0.webp" /></a></p>
 <p>初试成绩
 广告一则：23上岸学长学姐们的q群：632264180，无广告无收费，欢迎大家进q群咨询问题。（纯23学长学姐组建，暂时没有人卖课嗷）</p>
 <p>然后是工研考研群：712649620</p>
 <p>群里有所有录取的学长学姐，也是由23届的拟录取生管理，欢迎有兴趣了解我们工研院的同学进群。</p>
 <p>需要偷偷加我的可以进群然后找绛紫，王道群我也在里面不过随时可能退掉，qq号是37开头，如果找不到也可以下面回复或者私聊我，不过我不怎么用知乎当聊天平台可能短时间内看不到噢。</p>
-<p><img alt="" src="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/1.webp" /></p>
+<p><a class="glightbox" href="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/1.webp" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="" src="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/1.webp" /></a></p>
 <p>复试应该是第二~</p>
 <h2 id="_2">个人经历</h2>
 <p>本科就读于福州大学，大概是一所中末流211，本科绩点3.47/4。</p>
@@ -3851,7 +3823,7 @@
 </li>
 <li>
 <p>以初始分划分：我大概能考到多少分？能选取怎么样的学校？</p>
-<p><img alt="" src="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/2.webp" /></p>
+<p><a class="glightbox" href="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/2.webp" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="" src="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/2.webp" /></a></p>
 <p>如果你和我本科情况差不多，请你<strong>相信自己</strong>，在足够早的时间开始复习，你拥有考400分左右的能力。当然这是根据我的身边统计学得出的，这边与我情况相似的大概都考了380+。</p>
 <p>请在择校的时候<strong>稍微调高</strong>自己的标准，科软武大浙大等初试为王的地方你是可以考虑的，同时，如果你拥有一定的经历，欢迎前来复旦大学体验cs考研最煎熬复试（不过工研院不太难的啦）。</p>
 <p>我一开始的选择是<strong>浙江大学软件学院</strong>，并在寒假过完了数一基础，以及稍微做了一些PAT，但是一方面我被从小到大数学不行所带来的的深刻阴影所影响，另一方面也害怕软件学院的878改为408而来不及复习，最终选择跳车22408的大军之中。然而，浙江大学今年的招生情况，有所了解的应该也明白，软件学院干脆就没招满招调剂了。选择确实是远大于努力。</p>
@@ -3865,7 +3837,7 @@
 </ul>
 <h2 id="_3">学习与娱乐的平衡</h2>
 <p>考研不是修行，你<strong>不需要杜绝自己的所有娱乐</strong>，你要学会如何去平衡自己，你在休息的时候要足够满足，在学习的时候要足够专注。</p>
-<p><img alt="该休息就休息，该摸鱼就摸鱼！" src="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/3.webp" /></p>
+<p><a class="glightbox" href="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/3.webp" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="该休息就休息，该摸鱼就摸鱼！" src="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/3.webp" /></a></p>
 <p>简单讲讲我的作息：10月前每周休周五晚上，10月后7天无休。</p>
 <p>但是我学的很摸，一天学习时间很少，大约8小时。以下是坐在图书馆的时间。即使在12月也没有变过。</p>
 <p>8：30 -&gt; 11:30 , 14:30 -&gt; 17:30 , 19:30 -&gt; 21:40</p>
@@ -3873,9 +3845,9 @@
 <p>因此我也不需要每周特别分出一天来娱乐，每天的生活就足够惬意了。但你要<strong>切实保证你这8小时的效率</strong>，自己学的有没有效率，你自己感受得到。如果你没有这种集中注意力的能力，那么适当延长自己的学习时间，以时间换效率，可能是一种有效的方法。</p>
 <p>你要是真的某件事特别想做，比如游戏活动，比如要花一天和女朋友出去玩，那就分一点时间去做吧，这对你的考研不会有影响，甚至对你的心态有一些医疗作用，不过9月后的话建议还是忍忍。</p>
 <p>比如我考研期间5月的时候，大概分了7个晚上出来开荒一个零式（FF14的高难本），然后用每周五的晚上清cd（相当于游戏周常）。直到暑假才没有做这个周常。</p>
-<p><img alt="偷偷放一张FF14的固定队截图，他们在考研的路上给我诸多心灵上的支撑" src="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/4.webp" /></p>
+<p><a class="glightbox" href="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/4.webp" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="偷偷放一张FF14的固定队截图，他们在考研的路上给我诸多心灵上的支撑" src="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/4.webp" /></a></p>
 <p>又比如其实我买了一堆车万同人玩，还玩了不少galgame，当然也少不了社交游戏LOL。</p>
-<p><img alt="过去一年玩的" src="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/5.webp" /></p>
+<p><a class="glightbox" href="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/5.webp" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="过去一年玩的" src="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/5.webp" /></a></p>
 <p>过去一年玩的</p>
 <h2 id="_4">初试规划</h2>
 <p>这边相同的帖子太多太多了，而且个人不是擅长规划的人，所以我接下来简略写一些自己做过的事，而不是自己曾经打算做的事。</p>
@@ -3903,7 +3875,7 @@
 <p>计网这边推荐有些不理解的知识可以看湖科大教书匠。</p>
 <p>！！！教材上，只看了<strong>袁春风的紫书</strong>（计算机组成与系统结构），这里我真的<strong>强烈推荐</strong>，你如果像我一样22408从寒假就开始，肯定有足够的时间，可以静下心来好好读一遍这本书，即使是打星号不考的部分。他能够帮408中所有的考点讲清楚，让你建立一个清晰的体系，并且细节上也足够透彻。甚至是一些考纲外的考点，也无法偷袭你。另外，它看起来很厚，实际上都是用通俗的大白话跟你讲，所以阅读起来速度很快，并不会花太多时间。</p>
 <p>别的也不说，23就考了一题选择题（怕剧透可以后面来看），是非规格化数的，这题袁书上就讲明白了，我想只看王道的同学可能就掉坑里了。再举个例子，2013计组大题</p>
-<p><img alt="2013真题 计组" src="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/6.jpg" /></p>
+<p><a class="glightbox" href="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/6.jpg" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="2013真题 计组" src="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/6.jpg" /></a></p>
 <p>这题每年都多少要被考研群讨论一下，到底要怎么算时间？</p>
 <p>袁春风7.6.7*：影响cache性能的因素中，讲了主存-总线-cache间的链接问题，看完之后可以说是把这题弄得一清二楚。你要是不知道窄形结构、宽形结构、交叉存储结构不同的时间计算方式，即使做对了这题，难道能说自己弄明白了么？</p>
 <p>还有指令集体系结构（ISA）这种不知道哪里冒出来的知识点，偏偏就要出现在真题里，然而这本书都是有提过的。例子很多，不多举了。</p>
@@ -4002,7 +3974,7 @@
 <blockquote>
 <p>我的旅途，是一个令人满意的旅途吗？</p>
 </blockquote>
-<p><img alt="FF14，B站偷的图，之后有时间自己截一张hhh" src="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/7.jpg" /></p>
+<p><a class="glightbox" href="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/7.jpg" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="FF14，B站偷的图，之后有时间自己截一张hhh" src="https://img.w2fzu.com/fzu-run/postgraduate/fdu/231202-1/7.jpg" /></a></p>
 <p>考研的路上，你一定会经历痛苦、焦虑、迷茫，你知道你的努力不一定会有结果，你会因此多次久久的失眠，深夜陷入深深的阴郁。</p>
 <p>但是不必因此作茧自缚，你应找到自己精神的支撑，而不是放弃他们来榨取时间，你应找到值得你梦想的目标，而不因无梦想而失去动力。</p>
 <p>希望你到来年的4月，回答这个问题的时候，心里没有遗憾。</p>
@@ -4013,6 +3985,27 @@
 
 
 
+  
+    
+  
+  
+
+
+  <aside class="md-source-file">
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="最后更新">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">March 7, 2024</span>
+  </span>
+
+    
+    
+    
+    
+  </aside>
 
 
 
@@ -4113,5 +4106,7 @@
         <script src="https://unpkg.zhimg.com/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
-  </body>
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
 </html>
