@@ -16,7 +16,7 @@
 
 ## 常见问题Q&A
 
-这里列举了常见的问题解答，若有其他问题可以加入[转专业交流群](https://qm.qq.com/cgi-bin/qm/qr?k=m7tu6nTepTfxx2TxZIqRRxWJKrnsCch2&jump_from=webapi&authKey=zZpzLJpVeNdJGtWnVHuD3HZm6cL99vCEJvk3F46BeJTDKwuxTT5k6Gfiv2hHu+nS)了解咨询。
+这里列举了常见的问题解答，若有其他问题可以加入[转专业交流群](https://qm.qq.com/cgi-bin/qm/qr?k=m7tu6nTepTfxx2TxZIqRRxWJKrnsCch2&authKey=zZpzLJpVeNdJGtWnVHuD3HZm6cL99vCEJvk3F46BeJTDKwuxTT5k6Gfiv2hHu+nS)了解咨询。
 
 ------
 
