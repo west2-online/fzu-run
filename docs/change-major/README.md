@@ -16,28 +16,29 @@
 
 ## 常见问题Q&A
 
-更推荐去转专业群直接咨询问题,这里列举了常见的问题解答
+这里列举了常见的问题解答，若有其他问题可以加入[转专业交流群](https://qm.qq.com/cgi-bin/qm/qr?k=m7tu6nTepTfxx2TxZIqRRxWJKrnsCch2&authKey=zZpzLJpVeNdJGtWnVHuD3HZm6cL99vCEJvk3F46BeJTDKwuxTT5k6Gfiv2hHu+nS)了解咨询。
 
 ------
 
 Q: 转专业看绩点吗?
 
-A: 大一不看绩点,大二的原则上也不看,但是部分学院面试的时候会要求你提供成绩单
+A: 大一不看绩点,大二的原则上也不看,但是部分学院面试的时候会要求你提供成绩单。
 
 ------
 
 Q: 转专业的时间?
 
-A: 每年的11月底-12月初,初试、复试间隔时间很短,通常在两周内完成
+A: 每年的11月底-12月初,初试、复试间隔时间很短,通常在两周内完成。可以参阅[官方文件](https://run.west2.online/change-major/source/official-release/)，内有去年的时间线。
 
 ------
 
 Q: 有专业限制吗?
 
-A: 只要你**有转专业资格**,你就可以申请转任何你想去的专业
+A: 只要你**有转专业资格**,你就可以申请转任何你想去的专业。
 
 ------
 
 Q: 什么是有转专业资格?
 
-A: 进交流群咨询吧!
+A: 可以参阅[官方文件](https://run.west2.online/change-major/source/official-release/)，内有详细的说明。
+
