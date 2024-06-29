@@ -1,12 +1,11 @@
 site_name: 'FZU-RUN'
-site_url: https://run.w2fzu.com/
+site_url: https://run.west2.online/
 site_author: west2-online
-site_description: '福州大学转专业经验手册'
+site_description: '福州大学飞跃手册'
 nav:
-    - 首页:
-        - index.md
-        - 贡献指南: contribute-guide.md
+    - 首页: index.md
     - 关于: about.md
+    - 贡献指南: contribute-guide.md
     - 转专业:
         - change-major/README.md
         - 计算机:
@@ -92,6 +91,7 @@ nav:
                 - 20级计算机学院面试名单: change-major/source/2020-cs-interview-list.md
                 - 21级计算机学院面试名单: change-major/source/2021-cs-interview-list.md
     - 研究生:
+        - postgraduate/README.md
         - 福州大学:
             - '[考研] 2023-计算机与大数据学院': postgraduate/fzu/230320-1.md
             - '[考研] 2023-计算机与大数据学院': postgraduate/fzu/231214-1.md
@@ -114,6 +114,10 @@ nav:
             - '[考研] 2024-软件与微电子学院': postgraduate/pku/240627-1.md
 theme:
     logo: 'assets/logo.svg'
+    icon:
+        edit: material/pencil-box-multiple-outline
+        view: material/file-eye-outline
+        repo: fontawesome/brands/github
     name: material
     language: zh
     palette:
@@ -121,12 +125,14 @@ theme:
         accent: blue
     custom_dir: overrides
     features:
+        - navigation.path
         - navigation.tabs
         - navigation.indexes
         - navigation.tabs.sticky
         - navigation.tracking
         - toc.follow
         - content.action.edit
+        - content.action.view
         - navigation.footer
         - navigation.path
         - navigation.top
@@ -146,5 +152,8 @@ markdown_extensions:
     - pymdownx.keys
     - pymdownx.mark
     - pymdownx.tilde
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
     - pymdownx.arithmatex:
             generic: true
