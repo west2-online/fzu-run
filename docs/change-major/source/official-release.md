@@ -1,5 +1,5 @@
 ## 官方文件
-福州大学本科生转专业管理实施办法（暂行）: [https://jwch.fzu.edu.cn/info/1056/4052.htm](https://jwch.fzu.edu.cn/info/1056/4052.htm)
+福州大学本科生转专业管理实施办法: [https://jwch.fzu.edu.cn/info/1036/13629.htm](https://jwch.fzu.edu.cn/info/1036/13629.htm)
 
 该文件详细说明了转专业需要满足的条件以及转专业的实施办法，请务必仔细阅读。
 
