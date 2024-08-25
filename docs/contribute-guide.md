@@ -59,6 +59,8 @@ markdown 文件放置在 `/docs/postgraduate/{学校}` 下
 ```
 pip install mkdocs
 pip install mkdocs-material
+pip install mkdocs-glightbox
+pip install mkdocs-git-revision-date-localized-plugin
 ```
 如果你发现安装极为缓慢甚至安装失败，请参阅 [PyPI 镜像使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi/)
 
