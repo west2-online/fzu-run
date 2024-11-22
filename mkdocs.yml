@@ -9,6 +9,7 @@ nav:
     - 转专业:
         - change-major/README.md
         - 计算机:
+            - '[大二]23-数学->软件工程': change-major/cs/241122-1.md
             - '[大一]23-港航->计算机类': change-major/cs/231206-1.md
             - '[大一]23-建筑学->信息安全': change-major/cs/231204-1.md
             - '[大一]23-车辆工程->计算机类': change-major/cs/231203-3.md
@@ -30,7 +31,6 @@ nav:
             - '[大一]21-土木->软件工程': change-major/cs/230316-5.md
             - '[大一]21-土木->软件工程': change-major/cs/230316-7.md
             - '[大二]21-材料->软件工程': change-major/cs/230316-8.md
-            - '[大二]22-数学->软件工程': change-major/cs/241122-1.md
         - 数学:
             - '[大一]23-土木->数学类': change-major/math/231208-1.md
             - '[大一]21-土木->数学类': change-major/math/230316-1.md
