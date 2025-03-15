@@ -108,6 +108,7 @@ nav:
             - '[保研] 2024-信息学院': postgraduate/xmu/231204-1.md
             - '[保研] 2025-信息学院': postgraduate/xmu/241003-1.md
             - '[保研] 2025-信息学院': postgraduate/xmu/241017-1.md
+            - "[保研] 2025-信息学院-保研流水账": postgraduate/xmu/250314-1.md
         - 清华大学:
             - '[保研] 2024-网络空间与网络科学研究院': postgraduate/thu/231208-1.md
         - 北京航空航天大学:
@@ -185,6 +186,9 @@ markdown_extensions:
     - pymdownx.superfences
     - pymdownx.arithmatex:
             generic: true
+    - pymdownx.emoji:
+            emoji_index: !!python/name:material.extensions.emoji.twemoji
+            emoji_generator: !!python/name:material.extensions.emoji.to_svg
 plugins:
     - git-revision-date-localized
     - glightbox:
