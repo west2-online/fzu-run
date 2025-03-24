@@ -59,7 +59,9 @@ markdown 文件放置在 `/docs/postgraduate/{学校}` 下
 
 ```
 python3 -m venv mkdocs_venv
-source mkdocs_venv/bin/activate
+# 激活虚拟环境
+mkdocs_venv\Scripts\activate # Windows
+source mkdocs_venv/bin/activate # Unix 或 MacOS
 ```
 
 随后运行以下命令
