@@ -55,6 +55,15 @@ markdown 文件放置在 `/docs/postgraduate/{学校}` 下
 
 你需要先安装 `python`
 
+**[选做]**:创建虚拟环境
+
+```
+python3 -m venv mkdocs_venv
+# 激活虚拟环境
+mkdocs_venv\Scripts\activate # Windows
+source mkdocs_venv/bin/activate # Unix 或 MacOS
+```
+
 随后运行以下命令
 ```
 pip install mkdocs
