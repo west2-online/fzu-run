@@ -21,7 +21,8 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install mkdocs-material
-      - run: pip install mkdocs-glightbox
-      - run: pip install mkdocs-git-revision-date-localized-plugin
+      - run: pip install \
+             mkdocs-material \
+             mkdocs-glightbox \
+             mkdocs-git-revision-date-localized-plugin
       - run: mkdocs gh-deploy --force
