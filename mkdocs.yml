@@ -9,6 +9,7 @@ nav:
     - 转专业:
         - change-major/README.md
         - 计算机:
+            - '[大一]25-水利水电->计算机类': change-major/cs/250912-2.md
             - '[大一]25-数学类->数智实验班': change-major/cs/250912-1.md
             - '[大一]24-给排水->数智实验班': change-major/cs/250324-1.md
             - '[大一]24-数媒->计算机类': change-major/cs/241229-1.md
@@ -44,6 +45,7 @@ nav:
             - '[大一]21-环安->电气工程及其自动化': change-major/electric/230316-2.md
             - '[大一]21-化学->电气工程及其自动化': change-major/electric/230316-3.md
         - 物信:
+            - '[大一]25-外国语->数理综合班': change-major/physics/250912-1.md
             - '[大一]24-物流工程-微电子科学与工程': change-major/physics/250706-1.md
             - '[大一]24-数学类-电子科学与技术': change-major/physics/250706-2.md
             - '[大一]23-土木->电子信息类': change-major/physics/241111-1.md
