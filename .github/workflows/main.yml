@@ -26,3 +26,14 @@ jobs:
              mkdocs-glightbox \
              mkdocs-git-revision-date-localized-plugin
       - run: mkdocs gh-deploy --force
+
+      - name: Wait for GitHub Pages propagation
+        run: sleep 10
+
+      - name: Refresh Tencent Cloud CDN
+        uses: linrongda/tencent-cdn-action@v1
+        with:
+          secret_id: ${{ secrets.QCLOUD_SECRET_ID }}
+          secret_key: ${{ secrets.QCLOUD_SECRET_KEY }}
+          action: purgePath
+          paths: '["http://run.w2fzu.com/","http://run.west2.online/"]'
