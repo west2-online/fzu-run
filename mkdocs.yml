@@ -9,6 +9,7 @@ nav:
     - 转专业:
         - change-major/README.md
         - 计算机:
+            - '[大一]25-数学类->数智实验班': change-major/cs/250912-1.md
             - '[大一]24-给排水->数智实验班': change-major/cs/250324-1.md
             - '[大一]24-数媒->计算机类': change-major/cs/241229-1.md
             - '[大二]23-数学->软件工程': change-major/cs/241122-1.md
