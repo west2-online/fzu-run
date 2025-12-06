@@ -9,6 +9,7 @@ nav:
     - 转专业:
         - change-major/README.md
         - 计算机:
+            - '[大一]25-应用物理->软件工程': change-major/cs/251206-1.md
             - '[大一]24-水利水电->计算机类': change-major/cs/250912-2.md
             - '[大一]25-数学类->数智实验班': change-major/cs/250912-1.md
             - '[大一]24-给排水->数智实验班': change-major/cs/250324-1.md
@@ -96,13 +97,14 @@ nav:
                 - 2022经管学院转专业高等数学考试B卷题目: change-major/source/2022-economy-math-B-write-exam.md
             - 计算机:
                 - 2025计算机大二机试题目: change-major/source/2025-cs-on-computer-exam.md
+                - 2025计算机大一机试加赛题目: change-major/source/2025-cs-freshman-extra-on-computer-exam.md
                 - 2025计算机大一机试题目: change-major/source/2025-cs-freshman-on-computer-exam.md
                 - 2024计算机机试题目: change-major/source/2024-cs-on-computer-exam.md
                 - 2023计算机机试题目: change-major/source/2023-cs-on-computer-exam.md
                 - 2022计算机笔试题目: change-major/source/2022-cs-write-exam.md
                 - 2022计算机机试题目: change-major/source/2022-cs-on-computer-exam.md
                 - 2021计算机笔试题目: change-major/source/2021-cs-write-exam.md
-                - 计算机简答题整理: change-major/source/cs-intro.md
+                # - 计算机简答题整理: change-major/source/cs-intro.md
                 - 20级计算机学院面试名单: change-major/source/2020-cs-interview-list.md
                 - 21级计算机学院面试名单: change-major/source/2021-cs-interview-list.md
     - 研究生:
