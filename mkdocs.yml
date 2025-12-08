@@ -44,6 +44,7 @@ nav:
             - '[大一]23-土木->数学类': change-major/math/231208-1.md
             - '[大一]21-土木->数学类': change-major/math/230316-1.md
         - 电气:
+            - '[大一]25-智能建造->自动化': change-major/electric/251208-1.md
             - '[大一]24-给排水->智能电网信息工程': change-major/electric/250928-1.md
             - '[大一]23-生工->智能电网信息工程': change-major/electric/231218-1.md
             - '[大二]22-机械->电气工程及其自动化': change-major/electric/230809-1.md
@@ -72,6 +73,7 @@ nav:
         - 外国语:
             - '[大一]21-计算机->英语': change-major/foreign/230316-1.md
         - 经管:
+            - '[大一]25-土木->信息管理': change-major/economy/251208-1.md
             - '[大一]23-经济学->会计学': change-major/economy/231203-1.md
             - '[大一]23-工业设计->会计学': change-major/economy/231205-1.md
             - '[大一]22-外国语->数理金融实验班': change-major/economy/230316-1.md
