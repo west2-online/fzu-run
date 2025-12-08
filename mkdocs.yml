@@ -9,6 +9,7 @@ nav:
     - 转专业:
         - change-major/README.md
         - 计算机:
+            - '[大一]25-外国语->计算机类': change-major/cs/251206-7.md
             - '[大一]25-会计学->计算机类': change-major/cs/251206-6.md
             - '[大一]25-微电子科学与工程->软件工程': change-major/cs/251206-5.md
             - '[大一]25-数学->计算机类': change-major/cs/251206-4.md
