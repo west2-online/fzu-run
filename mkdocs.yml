@@ -10,6 +10,17 @@ nav:
         - change-major/README.md
         - 计算机:
             - '[大二]24-环境工程->计算机类': change-major/cs/251208-1.md
+            - '[大一]25-给排水->软件工程': change-major/cs/251207-3.md
+            - '[大二]24-物流工程->计算机类': change-major/cs/251207-2.md
+            - '[大二]24-数媒->计算机类': change-major/cs/251207-1.md
+            - '[大一]25-数学->计算机类': change-major/cs/251206-8.md
+            - '[大一]25-外国语->计算机类': change-major/cs/251206-7.md
+            - '[大一]25-会计学->计算机类': change-major/cs/251206-6.md
+            - '[大一]25-微电子科学与工程->软件工程': change-major/cs/251206-5.md
+            - '[大一]25-数学->计算机类': change-major/cs/251206-4.md
+            - '[大一]25-数学->软件工程': change-major/cs/251206-3.md
+            - '[大一]25-应用物理->软件工程': change-major/cs/251206-2.md
+            - '[大一]25-金融学->软件工程': change-major/cs/251206-1.md
             - '[大一]24-水利水电->计算机类': change-major/cs/250912-2.md
             - '[大一]25-数学类->数智实验班': change-major/cs/250912-1.md
             - '[大一]24-给排水->数智实验班': change-major/cs/250324-1.md
@@ -40,6 +51,7 @@ nav:
             - '[大一]23-土木->数学类': change-major/math/231208-1.md
             - '[大一]21-土木->数学类': change-major/math/230316-1.md
         - 电气:
+            - '[大一]25-智能建造->自动化': change-major/electric/251208-1.md
             - '[大一]24-给排水->智能电网信息工程': change-major/electric/250928-1.md
             - '[大一]23-生工->智能电网信息工程': change-major/electric/231218-1.md
             - '[大二]22-机械->电气工程及其自动化': change-major/electric/230809-1.md
@@ -47,6 +59,9 @@ nav:
             - '[大一]21-环安->电气工程及其自动化': change-major/electric/230316-2.md
             - '[大一]21-化学->电气工程及其自动化': change-major/electric/230316-3.md
         - 物信:
+            - '[大二]24-工程管理->集成电路设计与集成系统': change-major/physics/251209-3.md
+            - '[大一]25-工程管理->数媒': change-major/physics/251209-2.md
+            - '[大一]25-水利水电->量子信息科学': change-major/physics/251209-1.md
             - '[大一]25-外国语->数理综合班': change-major/physics/250912-1.md
             - '[大一]24-物流工程-微电子科学与工程': change-major/physics/250706-1.md
             - '[大一]24-数学类-电子科学与技术': change-major/physics/250706-2.md
@@ -68,6 +83,7 @@ nav:
         - 外国语:
             - '[大一]21-计算机->英语': change-major/foreign/230316-1.md
         - 经管:
+            - '[大一]25-土木->信息管理': change-major/economy/251208-1.md
             - '[大一]23-经济学->会计学': change-major/economy/231203-1.md
             - '[大一]23-工业设计->会计学': change-major/economy/231205-1.md
             - '[大一]22-外国语->数理金融实验班': change-major/economy/230316-1.md
@@ -86,6 +102,7 @@ nav:
                 - 2022法学转专业面试名单: change-major/source/2022-law-interview-list.md
                 - 2023法学转专业笔试题目: change-major/source/2023-law-write-exam.md
             - 物信:
+                - 2025物信转专业笔试题目: change-major/source/2025-physics-write-exam.md
                 - 2022物信转专业笔试题目: change-major/source/2022-physics-write-exam.md
                 - 2022物信转专业面试题目: change-major/source/2022-physics-interview-question.md
             - 电气:
@@ -97,13 +114,14 @@ nav:
                 - 2022经管学院转专业高等数学考试B卷题目: change-major/source/2022-economy-math-B-write-exam.md
             - 计算机:
                 - 2025计算机大二机试题目: change-major/source/2025-cs-on-computer-exam.md
+                - 2025计算机大一机试加赛题目: change-major/source/2025-cs-freshman-extra-on-computer-exam.md
                 - 2025计算机大一机试题目: change-major/source/2025-cs-freshman-on-computer-exam.md
                 - 2024计算机机试题目: change-major/source/2024-cs-on-computer-exam.md
                 - 2023计算机机试题目: change-major/source/2023-cs-on-computer-exam.md
                 - 2022计算机笔试题目: change-major/source/2022-cs-write-exam.md
                 - 2022计算机机试题目: change-major/source/2022-cs-on-computer-exam.md
                 - 2021计算机笔试题目: change-major/source/2021-cs-write-exam.md
-                - 计算机简答题整理: change-major/source/cs-intro.md
+                # - 计算机简答题整理: change-major/source/cs-intro.md
                 - 20级计算机学院面试名单: change-major/source/2020-cs-interview-list.md
                 - 21级计算机学院面试名单: change-major/source/2021-cs-interview-list.md
     - 研究生:
@@ -203,6 +221,7 @@ markdown_extensions:
     - pymdownx.emoji:
             emoji_index: !!python/name:material.extensions.emoji.twemoji
             emoji_generator: !!python/name:material.extensions.emoji.to_svg
+    - footnotes
 plugins:
     - git-revision-date-localized
     - glightbox:
