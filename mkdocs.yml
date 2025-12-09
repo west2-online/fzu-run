@@ -9,6 +9,7 @@ nav:
     - 转专业:
         - change-major/README.md
         - 计算机:
+            - '[大一]25-数学->计算机类': change-major/cs/251206-8.md
             - '[大一]25-外国语->计算机类': change-major/cs/251206-7.md
             - '[大一]25-会计学->计算机类': change-major/cs/251206-6.md
             - '[大一]25-微电子科学与工程->软件工程': change-major/cs/251206-5.md
@@ -53,6 +54,7 @@ nav:
             - '[大一]21-环安->电气工程及其自动化': change-major/electric/230316-2.md
             - '[大一]21-化学->电气工程及其自动化': change-major/electric/230316-3.md
         - 物信:
+            - '[大一]25-水利水电->量子信息科学': change-major/physics/251209-1.md
             - '[大一]25-外国语->数理综合班': change-major/physics/250912-1.md
             - '[大一]24-物流工程-微电子科学与工程': change-major/physics/250706-1.md
             - '[大一]24-数学类-电子科学与技术': change-major/physics/250706-2.md
@@ -93,6 +95,7 @@ nav:
                 - 2022法学转专业面试名单: change-major/source/2022-law-interview-list.md
                 - 2023法学转专业笔试题目: change-major/source/2023-law-write-exam.md
             - 物信:
+                - 2025物信转专业笔试题目: change-major/source/2025-physics-write-exam.md
                 - 2022物信转专业笔试题目: change-major/source/2022-physics-write-exam.md
                 - 2022物信转专业面试题目: change-major/source/2022-physics-interview-question.md
             - 电气:
