@@ -9,9 +9,10 @@ nav:
     - 转专业:
         - change-major/README.md
         - 计算机:
+            - '[大二]24-环境工程->计算机类': change-major/cs/251208-1.md
             - '[大一]25-给排水->软件工程': change-major/cs/251207-3.md
-            - '[大二]25-物流工程->计算机类': change-major/cs/251207-2.md
-            - '[大二]25-数媒->计算机类': change-major/cs/251207-1.md
+            - '[大二]24-物流工程->计算机类': change-major/cs/251207-2.md
+            - '[大二]24-数媒->计算机类': change-major/cs/251207-1.md
             - '[大一]25-数学->计算机类': change-major/cs/251206-8.md
             - '[大一]25-外国语->计算机类': change-major/cs/251206-7.md
             - '[大一]25-会计学->计算机类': change-major/cs/251206-6.md
@@ -58,7 +59,7 @@ nav:
             - '[大一]21-环安->电气工程及其自动化': change-major/electric/230316-2.md
             - '[大一]21-化学->电气工程及其自动化': change-major/electric/230316-3.md
         - 物信:
-            - '[大二]25-工程管理->集成电路设计与集成系统': change-major/physics/251209-3.md
+            - '[大二]24-工程管理->集成电路设计与集成系统': change-major/physics/251209-3.md
             - '[大一]25-工程管理->数媒': change-major/physics/251209-2.md
             - '[大一]25-水利水电->量子信息科学': change-major/physics/251209-1.md
             - '[大一]25-外国语->数理综合班': change-major/physics/250912-1.md
