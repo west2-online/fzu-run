@@ -51,6 +51,7 @@ nav:
             - '[大一]23-土木->数学类': change-major/math/231208-1.md
             - '[大一]21-土木->数学类': change-major/math/230316-1.md
         - 电气:
+            - '[大一]25-工程管理->电气工程及其自动化': change-major/electric/251209-1.md
             - '[大一]25-智能建造->自动化': change-major/electric/251208-1.md
             - '[大一]24-给排水->智能电网信息工程': change-major/electric/250928-1.md
             - '[大一]23-生工->智能电网信息工程': change-major/electric/231218-1.md
@@ -78,6 +79,7 @@ nav:
             - '[大一]23-工程管理->电子信息类': change-major/physics/240211-2.md
             - '[大一]23-食品科学与工程->集成电路设计与集成系统': change-major/physics/240223-1.md
         - 机械:
+            - '[大一]25-土木交通工程->车辆工程': change-major/mechanical-engineering/251211-1.md
             - '[大一]24-土木交通工程->车辆工程': change-major/mechanical-engineering/250624-1.md
         - 法学:
             - '[大一]22-英语->法学': change-major/law/230810-1.md
@@ -93,6 +95,7 @@ nav:
         - 化学:
             - '[大一]22-建筑->嘉锡化学拔尖班':  change-major/chemistry/230316-1.md
         - 汉语言文学:
+            - '[大一]25-英语->汉语言文学': change-major/chinese-literature/251209-1.md
             - '[大一]23-物流管理->汉语言文学': change-major/chinese-literature/240102-1.md
         - 备考资源:
             - 通用:
