@@ -52,8 +52,11 @@ nav:
             - '[大一]23-土木->数学类': change-major/math/231208-1.md
             - '[大一]21-土木->数学类': change-major/math/230316-1.md
         - 电气:
+            - '[大一]25-信息管理与信息系统->电气工程及其自动化': change-major/electric/251214-3.md
+            - '[大一]25-给排水->电气工程及其自动化': change-major/electric/251214-2.md
+            - '[大二]25-地矿->电气工程及其自动化': change-major/electric/251214-1.md
             - '[大一]25-工程管理->电气工程及其自动化': change-major/electric/251209-1.md
-            - '[大一]25-智能建造->自动化': change-major/electric/251208-1.md
+            - '[大一]25-智能建造->电气工程及其自动化': change-major/electric/251208-1.md
             - '[大一]24-给排水->智能电网信息工程': change-major/electric/250928-1.md
             - '[大一]23-生工->智能电网信息工程': change-major/electric/231218-1.md
             - '[大二]22-机械->电气工程及其自动化': change-major/electric/230809-1.md
@@ -61,6 +64,7 @@ nav:
             - '[大一]21-环安->电气工程及其自动化': change-major/electric/230316-2.md
             - '[大一]21-化学->电气工程及其自动化': change-major/electric/230316-3.md
         - 物信:
+            - '[大一]25-生物医学工程->电子信息类': change-major/physics/251214-1.md
             - '[大一]25-油气储运工程->微电子科学与工程': change-major/physics/251209-4.md
             - '[大二]24-工程管理->集成电路设计与集成系统': change-major/physics/251209-3.md
             - '[大一]25-工程管理->数媒': change-major/physics/251209-2.md
@@ -83,6 +87,7 @@ nav:
             - '[大一]25-土木交通工程->车辆工程': change-major/mechanical-engineering/251211-1.md
             - '[大一]24-土木交通工程->车辆工程': change-major/mechanical-engineering/250624-1.md
         - 法学:
+            - '[大一]25-金融学->法学': change-major/law/251214-1.md
             - '[大一]22-英语->法学': change-major/law/230810-1.md
         - 外国语:
             - '[大一]21-计算机->英语': change-major/foreign/230316-1.md
