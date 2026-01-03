@@ -9,6 +9,7 @@ nav:
     - 转专业:
         - change-major/README.md
         - 计算机:
+            - '[大二]25-化工->软件工程': change-major/cs/260103-1.md
             - '[大一]25-土木->计算机类': change-major/cs/251221-1.md
             - '[大一]25-材料->计算机类': change-major/cs/251210-1.md
             - '[大二]24-环境工程->计算机类': change-major/cs/251208-1.md
@@ -97,6 +98,7 @@ nav:
         - 外国语:
             - '[大一]21-计算机->英语': change-major/foreign/230316-1.md
         - 经管:
+            - '[大一]25-国际经济与贸易->会计学': change-major/economy/260103-1.md
             - '[大一]25-土木->信息管理': change-major/economy/251208-1.md
             - '[大一]23-经济学->会计学': change-major/economy/231203-1.md
             - '[大一]23-工业设计->会计学': change-major/economy/231205-1.md
