@@ -100,7 +100,7 @@ nav:
         - 经管:
             - '[大一]25-国际经济与贸易->会计学': change-major/economy/260103-1.md
             - '[大一]25-土木->信息管理': change-major/economy/251208-1.md
-            - '[大一]23-经济学->会计学': change-major/economy/231203-1.md
+            # - '[大一]23-经济学->会计学': change-major/economy/231203-1.md
             - '[大一]23-工业设计->会计学': change-major/economy/231205-1.md
             - '[大一]22-外国语->数理金融实验班': change-major/economy/230316-1.md
             - '[大一]21-机械->数理金融实验班':  change-major/economy/230316-2.md
